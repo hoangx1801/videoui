@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Deploy on Firebase: https://tikto-75a49.web.app
 
 ## Available Scripts
 
